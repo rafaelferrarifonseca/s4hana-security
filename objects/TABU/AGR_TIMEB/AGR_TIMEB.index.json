@@ -20,6 +20,24 @@
      }
     ],
     "hash":"iFPG3nuFNOi98nDZ+59bnXNTcjQ="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"516"
+     },
+     {
+      "key":"AGR_NAME",
+      "value":"Z_TESTE_17032021_V2"
+     },
+     {
+      "key":"AGR_TYPE",
+      "value":"GENERATE"
+     }
+    ],
+    "hash":"oy7HIWDzbL22VCxFvC319oLsErY="
    }
   ]
  }
