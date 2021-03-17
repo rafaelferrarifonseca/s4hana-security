@@ -1,0 +1,17 @@
+[
+ {
+  "table":"UST12",
+  "data":
+  [
+   {
+    "MANDT":"516",
+    "OBJCT":"S_TCODE",
+    "AUTH":"T-SX65287000",
+    "AKTPS":"A",
+    "FIELD":"TCD",
+    "VON":"SU1",
+    "BIS":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "table":"USR11",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"516"
+     },
+     {
+      "key":"LANGU",
+      "value":"E"
+     },
+     {
+      "key":"PROFN",
+      "value":"T-SX652870"
+     },
+     {
+      "key":"AKTPS",
+      "value":"A"
+     }
+    ],
+    "hash":"i2T6FylI530rkcr4Cns+k9fA9Ck="
+   }
+  ]
+ }
+]

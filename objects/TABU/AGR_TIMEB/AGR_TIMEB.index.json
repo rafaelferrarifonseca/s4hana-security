@@ -1,0 +1,26 @@
+[
+ {
+  "table":"AGR_TIMEB",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"516"
+     },
+     {
+      "key":"AGR_NAME",
+      "value":"Z_TESTE_17032021"
+     },
+     {
+      "key":"AGR_TYPE",
+      "value":"GENERATE"
+     }
+    ],
+    "hash":"iFPG3nuFNOi98nDZ+59bnXNTcjQ="
+   }
+  ]
+ }
+]
