@@ -1,0 +1,36 @@
+[
+ {
+  "table":"AGR_TIMEB",
+  "data":
+  [
+   {
+    "MANDT":"516",
+    "AGR_NAME":"Z_TESTE_17032021",
+    "AGR_TYPE":"GENERATE",
+    "CREATE_USR":"TR003438",
+    "CREATE_DAT":"2021-03-17",
+    "CREATE_TIM":"15:49:12",
+    "CREATE_TMP":"0",
+    "CHANGE_USR":"TR003438",
+    "CHANGE_DAT":"2021-03-17",
+    "CHANGE_TIM":"15:49:12",
+    "CHANGE_TMP":"0",
+    "ATTRIBUTES":""
+   },
+   {
+    "MANDT":"516",
+    "AGR_NAME":"Z_TESTE_17032021_V2",
+    "AGR_TYPE":"GENERATE",
+    "CREATE_USR":"TR003438",
+    "CREATE_DAT":"2021-03-17",
+    "CREATE_TIM":"18:06:21",
+    "CREATE_TMP":"0",
+    "CHANGE_USR":"TR003438",
+    "CHANGE_DAT":"2021-03-17",
+    "CHANGE_TIM":"18:06:21",
+    "CHANGE_TMP":"0",
+    "ATTRIBUTES":""
+   }
+  ]
+ }
+]
