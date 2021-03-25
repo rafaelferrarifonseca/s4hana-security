@@ -20,6 +20,15 @@
     "FIELD":"TCD",
     "VON":"SU1",
     "BIS":""
+   },
+   {
+    "MANDT":"516",
+    "OBJCT":"S_TCODE",
+    "AUTH":"T-SX65288700",
+    "AKTPS":"A",
+    "FIELD":"TCD",
+    "VON":"SU1",
+    "BIS":""
    }
   ]
  }

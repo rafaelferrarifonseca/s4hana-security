@@ -26,6 +26,18 @@
     "TYP":"G",
     "NRAUT":24,
     "AUTHS":"C S_TCODE   T-SX65287100"
+   },
+   {
+    "MANDT":"516",
+    "PROFN":"T-SX652887",
+    "AKTPS":"A",
+    "MODDA":"2021-03-25",
+    "MODTI":"11:41:25",
+    "MODBE":"TR003438",
+    "DIVIS":"",
+    "TYP":"G",
+    "NRAUT":24,
+    "AUTHS":"C S_TCODE   T-SX65288700"
    }
   ]
  }

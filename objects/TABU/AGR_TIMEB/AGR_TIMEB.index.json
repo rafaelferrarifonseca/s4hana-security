@@ -38,6 +38,24 @@
      }
     ],
     "hash":"oy7HIWDzbL22VCxFvC319oLsErY="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"516"
+     },
+     {
+      "key":"AGR_NAME",
+      "value":"Z_TESTE_25032021_GIT"
+     },
+     {
+      "key":"AGR_TYPE",
+      "value":"GENERATE"
+     }
+    ],
+    "hash":"5GK3KtHAOvr3j28KPu3Cz3diFtQ="
    }
   ]
  }
