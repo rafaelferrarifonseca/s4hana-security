@@ -5,6 +5,20 @@
   [
    {
     "MANDT":"516",
+    "AGR_NAME":"SAP_CM_MANAGED_ADMIN",
+    "AGR_TYPE":"GENERATE",
+    "CREATE_USR":"TR003641",
+    "CREATE_DAT":"2021-02-13",
+    "CREATE_TIM":"17:36:25",
+    "CREATE_TMP":"0",
+    "CHANGE_USR":"TR003641",
+    "CHANGE_DAT":"2021-02-13",
+    "CHANGE_TIM":"17:36:25",
+    "CHANGE_TMP":"0",
+    "ATTRIBUTES":""
+   },
+   {
+    "MANDT":"516",
     "AGR_NAME":"Z_TESTE_17032021",
     "AGR_TYPE":"GENERATE",
     "CREATE_USR":"TR003438",

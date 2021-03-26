@@ -12,6 +12,24 @@
      },
      {
       "key":"AGR_NAME",
+      "value":"SAP_CM_MANAGED_ADMIN"
+     },
+     {
+      "key":"AGR_TYPE",
+      "value":"GENERATE"
+     }
+    ],
+    "hash":"xSJPLFvh4GwNlwmCQkfEgHjCRN4="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"516"
+     },
+     {
+      "key":"AGR_NAME",
       "value":"Z_TESTE_17032021"
      },
      {
