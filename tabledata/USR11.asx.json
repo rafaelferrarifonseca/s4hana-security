@@ -6,6 +6,13 @@
    {
     "MANDT":"516",
     "LANGU":"E",
+    "PROFN":"T-SX650935",
+    "AKTPS":"A",
+    "PTEXT":"Profile for role SAP_CM_MANAGED_ADMIN"
+   },
+   {
+    "MANDT":"516",
+    "LANGU":"E",
     "PROFN":"T-SX652870",
     "AKTPS":"A",
     "PTEXT":"Profile for role Z_TESTE_17032021"
@@ -16,6 +23,13 @@
     "PROFN":"T-SX652871",
     "AKTPS":"A",
     "PTEXT":"Profile for role Z_TESTE_17032021_V2"
+   },
+   {
+    "MANDT":"516",
+    "LANGU":"E",
+    "PROFN":"T-SX652887",
+    "AKTPS":"A",
+    "PTEXT":"Profile for role Z_TESTE_25032021_GIT"
    }
   ]
  }

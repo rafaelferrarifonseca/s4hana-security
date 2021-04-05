@@ -5,6 +5,18 @@
   [
    {
     "MANDT":"516",
+    "PROFN":"T-SX650935",
+    "AKTPS":"A",
+    "MODDA":"2021-02-13",
+    "MODTI":"17:36:25",
+    "MODBE":"TR003641",
+    "DIVIS":"",
+    "TYP":"G",
+    "NRAUT":288,
+    "AUTHS":"C S_CTS_SADMT-SX65093500S_DATASET T-SX65093500S_PROJECT T-SX65093500S_RFC     T-SX65093501S_RFC     T-SX65093502S_RFC     T-SX65093503S_RFC     T-SX65093504S_RFC     T-SX65093505S_RFC     T-SX65093506S_RFC     T-SX65093507S_RFC     T-SX65093508S_RFC     T-SX65093509S_SYS_RWBOT-SX65093500"
+   },
+   {
+    "MANDT":"516",
     "PROFN":"T-SX652870",
     "AKTPS":"A",
     "MODDA":"2021-03-17",
@@ -26,6 +38,18 @@
     "TYP":"G",
     "NRAUT":24,
     "AUTHS":"C S_TCODE   T-SX65287100"
+   },
+   {
+    "MANDT":"516",
+    "PROFN":"T-SX652887",
+    "AKTPS":"A",
+    "MODDA":"2021-03-25",
+    "MODTI":"11:41:25",
+    "MODBE":"TR003438",
+    "DIVIS":"",
+    "TYP":"G",
+    "NRAUT":24,
+    "AUTHS":"C S_TCODE   T-SX65288700"
    }
   ]
  }
