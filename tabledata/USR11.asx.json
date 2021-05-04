@@ -4,6 +4,13 @@
   "data":
   [
    {
+    "MANDT":"500",
+    "LANGU":"E",
+    "PROFN":"T-SX652882",
+    "AKTPS":"A",
+    "PTEXT":"Profile for role ZSAP_CM_MANAGED_CTS_DEV"
+   },
+   {
     "MANDT":"516",
     "LANGU":"E",
     "PROFN":"T-SX650935",

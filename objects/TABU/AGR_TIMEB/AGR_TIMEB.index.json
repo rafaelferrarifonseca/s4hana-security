@@ -8,6 +8,24 @@
     [
      {
       "key":"MANDT",
+      "value":"500"
+     },
+     {
+      "key":"AGR_NAME",
+      "value":"ZSAP_CM_MANAGED_CTS_DEV"
+     },
+     {
+      "key":"AGR_TYPE",
+      "value":"GENERATE"
+     }
+    ],
+    "hash":"dw4qp9WeiXCDPzD9LlV3Ma6KgQI="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
       "value":"516"
      },
      {
