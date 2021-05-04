@@ -191,6 +191,18 @@
     "CHANGE_DAT":"2021-03-25",
     "CHANGE_TIM":"11:40:28",
     "FLAG_VALUE":"Z_TESTE_25032021"
+   },
+   {
+    "MANDT":"516",
+    "AGR_NAME":"Z_TESTE_25032021_GIT",
+    "FLAG_TYPE":"USCMP_AIMP",
+    "CREATE_USR":"TR003438",
+    "CREATE_DAT":"2021-03-25",
+    "CREATE_TIM":"16:15:52",
+    "CHANGE_USR":"TR003438",
+    "CHANGE_DAT":"2021-03-25",
+    "CHANGE_TIM":"16:15:52",
+    "FLAG_VALUE":""
    }
   ]
  },
