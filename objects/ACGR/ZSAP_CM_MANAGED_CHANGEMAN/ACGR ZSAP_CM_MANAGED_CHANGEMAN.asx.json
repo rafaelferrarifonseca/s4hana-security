@@ -574,18 +574,6 @@
     "CHANGE_DAT":"2021-05-04",
     "CHANGE_TIM":"15:10:42",
     "FLAG_VALUE":""
-   },
-   {
-    "MANDT":"500",
-    "AGR_NAME":"ZSAP_CM_MANAGED_CHANGEMAN",
-    "FLAG_TYPE":"USCMP_AIMP",
-    "CREATE_USR":"TR003438",
-    "CREATE_DAT":"2021-05-04",
-    "CREATE_TIM":"18:16:04",
-    "CHANGE_USR":"TR003438",
-    "CHANGE_DAT":"2021-05-04",
-    "CHANGE_TIM":"18:16:04",
-    "FLAG_VALUE":""
    }
   ]
  },
