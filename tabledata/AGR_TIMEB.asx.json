@@ -5,6 +5,20 @@
   [
    {
     "MANDT":"500",
+    "AGR_NAME":"ZSAP_CM_MANAGED_CHANGEMAN",
+    "AGR_TYPE":"GENERATE",
+    "CREATE_USR":"TR003438",
+    "CREATE_DAT":"2021-03-24",
+    "CREATE_TIM":"16:49:05",
+    "CREATE_TMP":"0",
+    "CHANGE_USR":"TR003438",
+    "CHANGE_DAT":"2021-03-24",
+    "CHANGE_TIM":"16:49:05",
+    "CHANGE_TMP":"0",
+    "ATTRIBUTES":""
+   },
+   {
+    "MANDT":"500",
     "AGR_NAME":"ZSAP_CM_MANAGED_CTS_DEV",
     "AGR_TYPE":"GENERATE",
     "CREATE_USR":"TR003438",

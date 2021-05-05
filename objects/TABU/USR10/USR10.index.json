@@ -26,6 +26,24 @@
     [
      {
       "key":"MANDT",
+      "value":"500"
+     },
+     {
+      "key":"PROFN",
+      "value":"T-SX652885"
+     },
+     {
+      "key":"AKTPS",
+      "value":"A"
+     }
+    ],
+    "hash":"UO57jCqOoOfvWLqibUqQ73Nbse4="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
       "value":"516"
      },
      {

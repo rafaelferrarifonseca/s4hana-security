@@ -12,6 +12,24 @@
      },
      {
       "key":"AGR_NAME",
+      "value":"ZSAP_CM_MANAGED_CHANGEMAN"
+     },
+     {
+      "key":"AGR_TYPE",
+      "value":"GENERATE"
+     }
+    ],
+    "hash":"rQj8Zb66y43Gx0ujpzfi0b3MZpo="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"500"
+     },
+     {
+      "key":"AGR_NAME",
       "value":"ZSAP_CM_MANAGED_CTS_DEV"
      },
      {
