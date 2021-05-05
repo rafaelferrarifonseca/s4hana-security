@@ -8,6 +8,28 @@
     [
      {
       "key":"MANDT",
+      "value":"500"
+     },
+     {
+      "key":"LANGU",
+      "value":"E"
+     },
+     {
+      "key":"PROFN",
+      "value":"T-SX652882"
+     },
+     {
+      "key":"AKTPS",
+      "value":"A"
+     }
+    ],
+    "hash":"IA5Sto5+i4cWQld7bkNCPmLA22Y="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
       "value":"516"
      },
      {
